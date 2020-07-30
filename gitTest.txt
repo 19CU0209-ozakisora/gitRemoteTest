@@ -2,3 +2,4 @@ test
 DiffTest
 torikesi
 branchTest
+2kaimeTest
